@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <h3 align="center"><b>📫 How to reach me 📫</b></h3>
 </br>
 
-<p align="center">
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:95jiwon91@gmail.com) &nbsp
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/e.z1_code) &nbsp
+<a href="https://www.instagram.com/e.z1_code"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-the-badge&logo=Gmail&logoColor=white"></a>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/e.z1_code)
 
-</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
