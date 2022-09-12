@@ -1,6 +1,5 @@
-# Jiwon Lee
-
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Reyna's%20Github&fontSize=90)
+# Hi there 👋
 
 <!--
 **EZ195/EZ195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/EZ195)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEZ195&count_bg=%23BA02FD&title_bg=%23F1A756&icon=&icon_color=%23E5CFED&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
-📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:95jiwon91@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/e.z1_code)
+<h3 align="center"><b>📫 How to reach me 📫</b></h3>
+</br>
+
+<p align="center">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:95jiwon91@gmail.com) &nbsp
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/e.z1_code) &nbsp
+
+</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
