@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEZ195&count_bg=%23BA02FD&title_bg=%23F1A756&icon=&icon_color=%23E5CFED&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center"><b>📫 How to reach me 📫</b></h3>
-</br>
 
-<a href="https://www.instagram.com/e.z1_code"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-the-badge&logo=Gmail&logoColor=white"></a>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](mailto:https://www.instagram.com/e.z1_code)
-
+<p align="center">
+<a href="95jiowon91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/e.z1_code"><img src="https://img.shields.io/badge/Instagram-E4405F?Instagramstyle=flat-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
+<br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> &nbsp
